@@ -21,11 +21,12 @@ Android中NDK的使用，java与c之间的互相传值和代码处理
   
   注意事项：
   
+  
  1.当Java类中包含了了native的方方法,那么这个类必须写一一个静态初始化块: System.loadLibrary(“库名”）
  
- 2. 如果Java方方法是成员方方法:那么C代码中第二二个参数就是 jobject
+ 1. 如果Java方方法是成员方方法:那么C代码中第二二个参数就是 jobject
  
- 3. 如果Java方方法是一一个静态的方方法:那么第二二个参数jclass
+ 1. 如果Java方方法是一一个静态的方方法:那么第二二个参数jclass
  
 ##CMake注意事项
 
