@@ -37,3 +37,5 @@ Thumbs.db
 
 #Android 2.2 C/C++ compile
 .externalNativeBuild/
+
+config.properties
