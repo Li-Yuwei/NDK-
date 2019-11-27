@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         String appKey = NativeHelper.getAppKeyFromC();
         String appSecret = NativeHelper.getAppSecretFromC();
 
-        Log.d("JNI", "Key: " + appKey);
+        Log.d("JNI ", "Key: " + appKey);
         Log.d("JNI", "Secret: " + appSecret);
         NativeHelper.sayHello("hahahahahaha");
     }
