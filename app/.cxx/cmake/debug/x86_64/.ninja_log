@@ -1,0 +1,4 @@
+# ninja log v5
+11	136	0	CMakeFiles/native-lib.dir/src/main/cpp/com_sogood001_NativeHelper.c.o	2f6cdec6a1e727d1
+2	427	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	fef173fa0f1ca67
+428	705	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	9f72dca25b0d829b

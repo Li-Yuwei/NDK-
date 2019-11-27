@@ -11,6 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.io.UnsupportedEncodingException;
+import java.util.Properties;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -28,7 +29,8 @@ public class MainActivity extends AppCompatActivity {
         // Example of a call to a native method
         TextView tv = (TextView) findViewById(R.id.sample_text);
         tv.setText(stringFromJNI());
-
+        Properties properties = ConfigPropertiesUtils.getProperties(this);
+        ConfigPropertiesUtils.getLocalProperties(this);
 
     }
 

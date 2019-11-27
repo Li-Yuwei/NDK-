@@ -2,3 +2,6 @@
 16	1212	0	CMakeFiles/native-lib.dir/src/main/cpp/com_sogood001_NativeHelper.c.o	ba250e2dfb364093
 2	2952	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	29f0c1f0e4e292b7
 2956	3513	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	18d37194151a4edd
+13	185	0	CMakeFiles/native-lib.dir/src/main/cpp/com_sogood001_NativeHelper.c.o	ba250e2dfb364093
+2	545	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	29f0c1f0e4e292b7
+545	840	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	18d37194151a4edd
