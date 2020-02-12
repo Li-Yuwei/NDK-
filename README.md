@@ -11,7 +11,7 @@ Android中NDK的使用，java与c之间的互相传值和代码处理
 
 3.c语言中调用java代码的案例
 
-4.c与java之间互相传递值撒
+4.c与java之间互相传递值
 
 
 
